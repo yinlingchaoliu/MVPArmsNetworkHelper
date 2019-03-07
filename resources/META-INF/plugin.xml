@@ -1,8 +1,8 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
+  <id>com.network.helper.mvparmshelper</id>
   <name>ArmMVPHelper</name>
   <version>1.0</version>
-  <vendor email="chentong01@hexindai.com" url="http://www.hexindai.com">和信贷</vendor>
+  <vendor email="704514698@qq.com" url="https://www.jianshu.com/u/bdcce32c05dd">陈桐</vendor>
 
   <description>ArmMVP框架 网络代码自动生成工具</description>
 
